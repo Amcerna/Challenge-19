@@ -1,0 +1,119 @@
+[
+     {
+    "question": "Which of the following statements is used to handle exceptions in Python?",
+    "answers": [
+      { "text": "catch", "isCorrect": false },
+      { "text": "except", "isCorrect": true },
+      { "text": "handle", "isCorrect": false },
+      { "text": "try", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  },
+  {
+    "question": "What is the output of 'hello' + 'world'?",
+    "answers": [
+      { "text": "hello world", "isCorrect": false },
+      { "text": "helloworld", "isCorrect": true },
+      { "text": "hello+world", "isCorrect": false },
+      { "text": "hello world!", "isCorrect": false }
+    ]
+  }
+]
